@@ -4,10 +4,10 @@ print(" -------------------------------")
 
 first = "1. Adding performers"
 
-third = "3. Quit"
+second = "2. Quit"
 Annual_Concert = "Blackwater Annual Music Concert"
 lines = "-------------------------------"
-command = int(input(f" {first}\n {third}\n ==> " ))
+command = int(input(f" {first}\n {second}\n ==> " ))
 
 
 
